@@ -1,0 +1,10 @@
+//
+//  dev.xcconfig
+//  TestPragma
+//
+//  Created by Pedro Alonso Daza B on 24/04/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+KURL_BASE = https:/$()/api.thecatapi.com

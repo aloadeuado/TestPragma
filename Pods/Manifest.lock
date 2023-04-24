@@ -1,0 +1,50 @@
+PODS:
+  - IQKeyboardManagerSwift (6.3.0)
+  - SkeletonView (1.14.0)
+  - SwiftGifOrigin (1.7.0)
+  - TTGSnackbar (1.10.7)
+  - URLImage (2.2.5):
+    - URLImage/Common (= 2.2.5)
+    - URLImage/DownloadManager (= 2.2.5)
+    - URLImage/FileIndex (= 2.2.5)
+    - URLImage/ImageDecoder (= 2.2.5)
+    - URLImage/Log (= 2.2.5)
+    - URLImage/PlainDatabase (= 2.2.5)
+    - URLImage/RemoteContentView (= 2.2.5)
+  - URLImage/Common (2.2.5)
+  - URLImage/DownloadManager (2.2.5):
+    - URLImage/Log
+  - URLImage/FileIndex (2.2.5):
+    - URLImage/Common
+    - URLImage/Log
+    - URLImage/PlainDatabase
+  - URLImage/ImageDecoder (2.2.5)
+  - URLImage/Log (2.2.5)
+  - URLImage/PlainDatabase (2.2.5)
+  - URLImage/RemoteContentView (2.2.5)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (= 6.3.0)
+  - SkeletonView (~> 1.14.0)
+  - SwiftGifOrigin (~> 1.7.0)
+  - TTGSnackbar (~> 1.10.3)
+  - URLImage (~> 2.2.3)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SkeletonView
+    - SwiftGifOrigin
+    - TTGSnackbar
+    - URLImage
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  SkeletonView: f10a3285ebf4bdd05d965ec6aaf62017bc8577e9
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  TTGSnackbar: bb425d666f6703fa2cb684385a4c7182f4bf1d55
+  URLImage: 36a66c03ba2a9ccbbf06bc83431f2cef171008e8
+
+PODFILE CHECKSUM: 9829dc58d5e4d61b4a0f4ec7bc21abc7691637e8
+
+COCOAPODS: 1.12.0
